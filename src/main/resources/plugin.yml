@@ -2,6 +2,7 @@ name: GiveMyArmorStandBack
 version: '1.0.0'
 main: cn.JvavRE.giveMyArmorStandBack.GiveMyArmorStandBack
 api-version: '1.21'
+folia-supported: true
 authors: [ Jvav_Runtime_Environment ]
 description: 防止盔甲架被意外破坏
 
