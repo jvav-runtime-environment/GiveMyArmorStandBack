@@ -1,0 +1,11 @@
+name: GiveMyArmorStandBack
+version: '1.0.0'
+main: cn.JvavRE.giveMyArmorStandBack.GiveMyArmorStandBack
+api-version: '1.21'
+authors: [ Jvav_Runtime_Environment ]
+description: 防止盔甲架被意外破坏
+
+permissions:
+  givemyarmorstandback.use:
+    description: 保护盔甲架不受钻石剑伤害
+    default: true
